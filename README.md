@@ -18,6 +18,7 @@ The `setup-java` action provides the following functionality for GitHub Actions 
 
 This action allows you to work with Java and Scala projects.
 
+
 ## V2 vs V1
 
 - V2 supports custom distributions and provides support for Azul Zulu OpenJDK, Eclipse Temurin and AdoptOpenJDK  out of the box. V1 supports only Azul Zulu OpenJDK.
